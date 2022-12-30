@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi 👋, I'm Anthony.
 
+🌱 Aspiring full stack developer
+
+💎 I try to write clean code (💥 Thanks Uncle Bob 💥)
+
+📫 How to reach me: aderose73@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonydLazuto)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TonydLazuto/TonydLazuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
