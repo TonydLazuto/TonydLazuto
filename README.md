@@ -1,10 +1,12 @@
 <h1 align="left">Hi 👋, I'm Anthony</h1>
 
-<details>
-<summary align="left">🌱 Aspiring full-stack developer</summary>
-  <p align="left"></p>
-</details>
-<p align="left">💎 I try to write clean code (💥 Thanks Uncle Bob 💥)</p>
+**`🌱 Aspiring full-stack developer`**
+<p align="left">
+  I have gained experience in web development, particularly with ReactJS and NestJS, through my last group project <a href="https://github.com/Claken/ft_transcendence" target="_blank" rel="noreferrer">ft_transcendance</a>.<br />
+  I am confident that my strong communication, teamwork, and problem-solving skills, as well as my passion for learning and staying up-to-date with the latest technologies, make me a strong fit to become full-stack developer.
+</p>
+
+<p align="left">💎 I try to write clean code (💥 Thanks <a href="https://en.wikipedia.org/wiki/Robert_C._Martin" target="_blank" rel="noreferrer">Uncle Bob</a> 💥)</p>
 
 <p align="left">📫 How to reach me: aderose73@gmail.com</p>
 
@@ -34,6 +36,6 @@
    
 <h3 align="left">📊 Stats</h3>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=tonydlazuto&show_icons=true&locale=en&theme=radical" alt="tonydlazuto" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=tonydlazuto&show_icons=true&locale=en&theme=tokyonight" alt="tonydlazuto" /></p>
 
 
