@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Anthony</h1>
 
-**`🌱 Aspiring full-stack developer`**
+**`🌱 Full-stack developer junior`**
 <p align="left">
   I have gained experience in web development, particularly with ReactJS and NestJS, through my last group project <a href="https://github.com/Claken/ft_transcendence" target="_blank" rel="noreferrer">ft_transcendance</a>.<br />
   I am confident that my strong communication, teamwork, and problem-solving skills, as well as my passion for learning and staying up-to-date with the latest technologies, make me a strong fit to become full-stack developer.
