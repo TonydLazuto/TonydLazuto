@@ -10,10 +10,7 @@
 
 <p align="left">📫 How to reach me: aderose73@gmail.com</p>
 
-<h3 align="left">💬 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anthony-dérosé-957110124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-dérosé-957110124" height="30" width="40" /></a>
-</p>
+<p align="left">💬 Connect with me on <a href="https://linkedin.com/in/anthony-dérosé-957110124" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-dérosé-957110124" height="15" width="15" /></a></p>
 
 <h3 align="left">📚 Tech Stack</h3>
 <p align="left"> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
