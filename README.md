@@ -2,7 +2,7 @@
 
 **`👨🏽‍💻 Full-stack developer`**
 <p align="left">
-  I have gained experience in web development, with React/Redux and Node/Fastify, through my last internship at ACENSI.<br />
+  I have gained experience in web development, with React/Redux and Node/Fastify, through my last experiences.<br />
   I am confident that my strong communication, teamwork, and problem-solving skills, as well as my passion for learning and staying up-to-date with the latest technologies, make me a strong fit to become full-stack developer.
 </p>
 
